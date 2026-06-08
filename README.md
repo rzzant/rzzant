@@ -19,4 +19,5 @@ I believe skills are built through consistent practice, real projects, and solvi
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,js,react,nextjs,nodejs,mongodb,mysql,git,github" />
 </p>
-
+## 🎯 Currently Learning
+Python • FastAPI • DSA • AI Development
