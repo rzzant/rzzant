@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Rishant Singh 👋
 
-<!--
-**rzzant/rzzant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering Student passionate about software engineering.
 
-Here are some ideas to get you started:
+Currently focused on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🐍 Python
+* ⚡ Backend Development
+* 🧠 Data Structures & Algorithms
+* 🤖 AI Applications
+
+I believe skills are built through consistent practice, real projects, and solving difficult problems.
+
+**Learning. Building. Improving. Every day.**
