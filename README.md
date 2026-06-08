@@ -20,8 +20,3 @@ I believe skills are built through consistent practice, real projects, and solvi
   <img src="https://skillicons.dev/icons?i=cpp,js,react,nextjs,nodejs,mongodb,mysql,git,github" />
 </p>
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=rzzant&show_icons=true&theme=dark)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=rzzant&theme=dark)
